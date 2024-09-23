@@ -1,0 +1,238 @@
+
+
+
+
+.img2 {
+    width: 300px;
+    height: 450px;
+    background-color: #3498db;
+    transition: transform 0.2s ease;
+  }
+
+  .img2:hover {
+    transform: scale(1.1); /* Aumenta 20% */
+  }
+
+  .img3 {
+    width: 360px;
+    height: 250px;
+    background-color: #3498db;
+    transition: transform 0.2s ease;
+    border-radius: 25px;
+  }
+
+  .img3:hover {
+    transform: scale(1.2); /* Aumenta 20% */
+  }
+
+  .img4 {
+    width: 360px;
+    height: 150px;
+    background-color: #3498db;
+    transition: transform 0.2s ease;
+    border-radius: 25px;
+  }
+
+  .img4:hover {
+    transform: scale(1.2); /* Aumenta 20% */
+  }
+
+
+.VY{
+   width: 300px;
+
+    border-radius: 25px;
+}
+
+
+
+
+
+
+
+.bad{
+    position: fixed;
+    display: flex;
+    left: 28px;
+    bottom: 650px;
+ 
+    border-radius: 30PX;
+}
+
+
+
+/*navbar*/
+.navbar{
+    color: aliceblue;
+     position: fixed;
+     width: 100%;
+    background-color: #a557da ;
+   border-radius: 50px;
+   
+
+
+}
+
+
+
+
+
+.ini{
+    
+    border-radius: 25px;
+}
+
+
+.img2{
+    
+    border-radius: 25px;
+}
+
+
+.navb{
+    background-color: rgb(104, 19, 173);
+    border-radius: 25px;
+    position: relative;
+    left: 42%;
+    border: none;
+    width: 60px
+    
+}
+
+
+.badge{
+    border-radius: 30px;
+    background-color: rgb(104, 19, 173);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*body*/
+.bod{
+   position: fixed;
+   position: relative;
+   display: flex;
+    
+ /* Background pattern from Toptal Subtle Patterns */
+ scroll-behavior: smooth;
+ 
+ 
+    background-color:rgb(30, 1, 54);
+   
+      
+      }
+
+.img-fluid{
+    border-radius: 20px;
+    position: relative;
+    right: 30%;
+
+}
+
+.clabod{
+    background-image: url("background-personagens/clay-and-hannah-13-reasons-why-season-2.jpg");
+    height: 100px;
+     width: 100%;
+}
+    
+.anibod{
+
+    background-image: url("background-personagens/ani.jpg");
+    height: 100px;
+     width: 100%;
+}   
+   
+
+.tonybod{
+
+    background-image: url("background-personagens/tony-13-reasons-why-ol.jpg");
+    height: 100px;
+     width: 100%;
+}   
+   
+.jesbod{
+
+    background-image: url("background-personagens/jessica-in-13-reasons-why-season-2-qo.jpg");
+    height: 100px;
+     width: 100%;
+}   
+
+.jusbod{
+
+    background-image: url("background-personagens/justin-foley-13-reasons-why-wallpapers.jpg");
+    height: 100px;
+     width: 100%;
+}   
+
+.alexbod{
+
+    background-image: url("background-personagens/alex-1591362421.jpg");
+    height: 100px;
+     width: 100%;
+}   
+.zacbod{
+
+    background-image: url("background-personagens/Zack.jpg");
+    height: 100px;
+     width: 100%;
+}   
+
+
+.tylbod{
+
+    background-image: url("background-personagens/tyler.jpg");
+    height: 100px;
+     width: 100%;
+}   
+
+
+/*carousel*/
+.carro{
+    height: 500px;
+}
+
+
+
+
+
+
+
+.cla{
+   text-align: center;
+    font-size: 18px;
+    
+}
+
+
+/*perfil e redes*/
+.per{
+    text-decoration-color: blue;
+   
+
+
+}
+
+
+.car{
+    text-align: center;
+     
+     background-color: rgba(0, 0, 0, 0);
+}
+   
+
+.pe{
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.842) ;
+
+
+}
+
+
+.im{
+    text-align: center;
+
+}
+
+.imgdn{
+
+    border-radius: 40px;
+}
