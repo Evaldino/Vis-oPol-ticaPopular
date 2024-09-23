@@ -16,7 +16,7 @@
     width: 360px;
     height: 250px;
     transition: transform 0.2s ease;
-    border-radius: 30px;
+    border-radius: 25px;
   }
 
   .img3:hover {
@@ -27,7 +27,7 @@
     width: 360px;
     height: 150px;
     transition: transform 0.2s ease;
-    border-radius: 30px;
+    border-radius: 25px;
   }
 
   .img4:hover {
