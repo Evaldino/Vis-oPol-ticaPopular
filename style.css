@@ -16,9 +16,9 @@
   .img3 {
     width: 360px;
     height: 250px;
-    background-color: #3498db;
+    
     transition: transform 0.2s ease;
-    border-radius: 25px;
+    border-radius: 30px;
   }
 
   .img3:hover {
@@ -28,9 +28,9 @@
   .img4 {
     width: 360px;
     height: 150px;
-    background-color: #3498db;
+    
     transition: transform 0.2s ease;
-    border-radius: 25px;
+    border-radius: 30px;
   }
 
   .img4:hover {
