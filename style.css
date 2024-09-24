@@ -5,6 +5,7 @@
 .img2 {
     width: 300px;
     height: 450px;
+    background-color: #3498db;
     transition: transform 0.2s ease;
   }
 
@@ -15,6 +16,7 @@
   .img3 {
     width: 360px;
     height: 250px;
+   
     transition: transform 0.2s ease;
     border-radius: 25px;
   }
@@ -24,8 +26,9 @@
   }
 
   .img4 {
-    width: 360px;
+    width: 60px;
     height: 150px;
+    
     transition: transform 0.2s ease;
     border-radius: 25px;
   }
@@ -37,6 +40,7 @@
 
 .VY{
    width: 300px;
+   background-color: #3498db;
    transition: transform 0.2s ease;
    border-radius: 25px;
  }
@@ -107,18 +111,33 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.badge:hover {
+  color: #c02222;
+  transform: scale(1.1); /* Aumenta 20% */
+  transition: transform 2.2 s ease;
+  background-color: rgb(151, 48, 236);
+ 
+}
+
+
+
+
+
+
 /*body*/
 .bod{
    position: fixed;
    position: relative;
    display: flex;
     
- /* Background pattern from Toptal Subtle Patterns */
- scroll-behavior: smooth;
- 
+
  
     background-color:rgb(30, 1, 54);
    
+
+
+
+
       
       }
 
@@ -128,80 +147,41 @@
     right: 30%;
 
 }
+/*ABA2*/
 
-.clabod{
-    background-image: url("background-personagens/clay-and-hannah-13-reasons-why-season-2.jpg");
-    height: 100px;
-     width: 100%;
+.Card{
+  border-radius: 400px;
+  background-color: #960ac023;
+  size-adjust: 100px;
+  
 }
-    
-.anibod{
-
-    background-image: url("background-personagens/ani.jpg");
-    height: 100px;
-     width: 100%;
-}   
-   
-
-.tonybod{
-
-    background-image: url("background-personagens/tony-13-reasons-why-ol.jpg");
-    height: 100px;
-     width: 100%;
-}   
-   
-.jesbod{
-
-    background-image: url("background-personagens/jessica-in-13-reasons-why-season-2-qo.jpg");
-    height: 100px;
-     width: 100%;
-}   
-
-.jusbod{
-
-    background-image: url("background-personagens/justin-foley-13-reasons-why-wallpapers.jpg");
-    height: 100px;
-     width: 100%;
-}   
-
-.alexbod{
-
-    background-image: url("background-personagens/alex-1591362421.jpg");
-    height: 100px;
-     width: 100%;
-}   
-.zacbod{
-
-    background-image: url("background-personagens/Zack.jpg");
-    height: 100px;
-     width: 100%;
-}   
 
 
-.tylbod{
+.repre{
 
-    background-image: url("background-personagens/tyler.jpg");
-    height: 100px;
-     width: 100%;
-}   
+  border-radius: 400px ;
+  background-color: rgb(225, 240, 240);
+  height: 190px;
+  width: 190px;
+  
 
+}
 
-/*carousel*/
-.carro{
-    height: 500px;
+.Name{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #ffffff;
+  background-color: #6d525200;
+  border-radius: 26px;
+  width: 30px;
+  height: 30px;
 }
 
 
 
+/*ABA2FINAL*/
 
 
 
-
-.cla{
-   text-align: center;
-    font-size: 18px;
-    
-}
 
 
 /*perfil e redes*/
