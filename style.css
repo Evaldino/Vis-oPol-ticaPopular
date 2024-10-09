@@ -18,7 +18,7 @@
     height: 250px;
    
     transition: transform 0.2s ease;
-    border-radius: 25px;
+    border-radius:40px;
   }
 
   .img3:hover {
@@ -30,7 +30,7 @@
     height: 150px;
     
     transition: transform 0.2s ease;
-    border-radius: 25px;
+    border-radius: 40px;
   }
 
   .img4:hover {
@@ -84,13 +84,13 @@
 
 .ini{
     
-    border-radius: 25px;
+    border-radius: 40px;
 }
 
 
 .img2{
     
-    border-radius: 25px;
+    border-radius: 40px;
 }
 
 
@@ -156,10 +156,19 @@
 
 }
 
+.card{
+  background-color:#b35353;
+  border-radius: 50px;
+}
 
-
-
-
+.cari{
+  display: flex;
+  height: 171px;
+  width: 171px;
+  border-radius: 400px;
+  position: relative;
+  left: 3px;
+}
 /*ABA2*/
 
 .Card{
@@ -229,4 +238,11 @@
 .imgdn{
 
     border-radius: 40px;
+}
+
+.candidatas2{
+  display: flex;
+ 
+ 
+  
 }
